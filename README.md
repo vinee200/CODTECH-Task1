@@ -15,3 +15,10 @@ Overview of the project
 Project :
 Creating a weather forecast app using CSS, HTML,
 and JavaScript.
+Objective:
+The main objective of this roject to create a weather application which is used to detect the temperature of different locations.
+Key Activities
+1.It detects temperature at every location.
+2.Shows the weather that it sunny or rainy or humid.
+Technologies used are:
+HTML,JAVA SCRIPT,CSS
