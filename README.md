@@ -11,5 +11,7 @@ Duration:10TH JUNE 2024 TO 22ND JULY2024
 
 Mentor:G.SRAVANI
 
-#Overview of the projet
+Overview of the project
 Project :
+Creating a weather forecast app using CSS, HTML,
+and JavaScript.
