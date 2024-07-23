@@ -1,4 +1,13 @@
 # CODTECH-Task1
 Name:Vasu Venkata Vineela
+
 Company:CODTEH IT SOLUTIONS
-KKL
+
+ID:CT6WDS178
+
+Domain:WEB DEVELOPMENT
+
+Duration:10TH JUNE 2024 TO 22ND JULY2024 
+
+Mentor:G.SRAVANI
+
